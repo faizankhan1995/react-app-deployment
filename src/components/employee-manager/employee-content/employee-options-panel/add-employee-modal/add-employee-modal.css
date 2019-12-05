@@ -1,0 +1,28 @@
+.ant-upload-list-item-card-actions .anticon-download {
+    display: none;
+}
+
+.add-employee-modal{
+  justify-content: center;
+}
+.add-employee-steps{
+  padding-right: 50px;
+  padding-left: 50px;
+}
+.avatar-image{
+    display: flex;
+    justify-content: center;
+}
+.steps-content {
+    margin-top: 2px;
+    border: 1px dashed #e9e9e9;
+    border-radius: 6px;
+    background-color: #fafafa;
+    height: 600px;
+    text-align: center;
+    padding-top: 10px;
+  }
+  
+.steps-action {
+  margin-top: 24px;
+}
